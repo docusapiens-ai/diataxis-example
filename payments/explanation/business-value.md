@@ -247,7 +247,7 @@ The Payments Processing Service delivers substantial business value to MyCompute
 | Metric | Target | Current | Status |
 |--------|--------|---------|--------|
 | System Uptime | 99.9% | 99.99% | ✅ |
-| API Response Time | <200ms | 150ms | ✅ |
+| API Response Time | 200ms | 150ms | ✅ |
 | Automation Rate | 90% | 95% | ✅ |
 | Error Rate | <0.1% | 0.05% | ✅ |
 | Integration Success | 95% | 98% | ✅ |

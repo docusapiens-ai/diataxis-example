@@ -156,7 +156,7 @@ graph LR
 
 ### System Performance
 - **Availability**: 99.99% uptime SLA
-- **Response Time**: <200ms p95 latency
+- **Response Time**: 200ms p95 latency
 - **Throughput**: 10,000+ concurrent users
 - **Data Durability**: 99.999999999% (11 9's)
 
