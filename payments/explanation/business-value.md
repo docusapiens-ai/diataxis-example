@@ -238,8 +238,8 @@ The Payments Processing Service delivers substantial business value to MyCompute
 | Metric | Target | Current | Status |
 |--------|--------|---------|--------|
 | Transaction Success Rate | 98% | 98.5% | ✅ |
-| Average Processing Cost | <1.5% | 1.4% | ✅ |
-| Payment Collection Time | <5 days | 3 days | ✅ |
+| Average Processing Cost | 1.5% | 1.4% | ✅ |
+| Payment Collection Time | 5 days | 3 days | ✅ |
 | Revenue Growth | 20% YoY | 24% YoY | ✅ |
 | Cost Reduction | 15% | 18% | ✅ |
 
@@ -249,7 +249,7 @@ The Payments Processing Service delivers substantial business value to MyCompute
 | System Uptime | 99.9% | 99.99% | ✅ |
 | API Response Time | 200ms | 150ms | ✅ |
 | Automation Rate | 90% | 95% | ✅ |
-| Error Rate | <0.1% | 0.05% | ✅ |
+| Error Rate | 0.1% | 0.05% | ✅ |
 | Integration Success | 95% | 98% | ✅ |
 
 ### Customer KPIs
@@ -257,9 +257,9 @@ The Payments Processing Service delivers substantial business value to MyCompute
 |--------|--------|---------|--------|
 | Customer Satisfaction | 85% | 88% | ✅ |
 | Payment NPS | 50 | 60 | ✅ |
-| Checkout Abandonment | <10% | 7% | ✅ |
+| Checkout Abandonment | 10% | 7% | ✅ |
 | Mobile Adoption | 35% | 40% | ✅ |
-| Dispute Rate | <0.5% | 0.3% | ✅ |
+| Dispute Rate | 0.5% | 0.3% | ✅ |
 
 ## Future Value Opportunities
 

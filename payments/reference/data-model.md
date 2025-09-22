@@ -297,7 +297,7 @@ Comprehensive audit trail for all financial transactions.
 2. **Currency Codes**: Must be valid ISO 4217 codes
 3. **Email Format**: Must be valid email format
 4. **Status Values**: Must be from predefined enums
-5. **Timestamps**: created_at <= updated_at
+5. **Timestamps**: created_at = updated_at
 6. **Refund Amount**: Cannot exceed original payment amount
 
 ### Triggers
